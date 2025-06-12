@@ -1,1 +1,1 @@
-import 'whatgw-fetch'
+import 'whatwg-fetch'
